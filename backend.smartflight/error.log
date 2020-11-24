@@ -1,0 +1,2 @@
+[Tue Nov 17 08:20:17.205206 2020] [core:error] [pid 125962] (13)Permission denied: [client 192.168.20.11:49804] AH00132: file permissions deny server access: /home/xbzvsszs-m2/access.log, referer: http://xbzvsszs-m2.wsr.ru/
+[Tue Nov 17 08:20:19.288041 2020] [core:error] [pid 125962] (13)Permission denied: [client 192.168.20.11:49804] AH00132: file permissions deny server access: /home/xbzvsszs-m2/error.log, referer: http://xbzvsszs-m2.wsr.ru/
